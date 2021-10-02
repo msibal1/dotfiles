@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mohitsibal3@gmail.com
+	name = Mohit Sibal
